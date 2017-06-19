@@ -1,13 +1,13 @@
 # 15avg
 
-The best project ever.
+The best project ever: testing for npm publishing
 
 ## Getting Started
 Install the module with: `npm install 15avg`
 
 ```javascript
 var _15avg = require('15avg');
-_15avg.awesome(); // "awesome"
+_15avg.awesome(); // dummy "awesome" is printed
 ```
 
 ## Documentation
